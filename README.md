@@ -1,0 +1,3 @@
+This repository contains code used for an assignment I completed as part of the MSc Data Analytics from UCD for the module "Advanced Bayesian Analysis". I received a mark of 87% for this assignment.
+
+In this assigment, I use Bayesian Hypothesis testing, Bayesian Model Selection, and Bayesian GLM (Generalised Linear Models) to answer various questions relating to cyclist traffic volumes in 4 locations in Dublin in April & May 2024. The Data has been provided by Dublin City Council and the NTA in April and May 2024. The other variables concern weather condition, and they have been provided by Met Éireann.
